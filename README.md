@@ -3,7 +3,7 @@ This contains the solutions to the assignments of Jan-May 2021 course EE2703 APL
 
 In this repository I am uploading my submissions to the assignments of Applied Praogramming Lap EE2703, JAN-MAY 2021.
 The assignments will have
-  1. a ".py" file as all the assignments are in Python.
+  1. A ".py" file as all the assignments are in Python.
   2. Assignment pdf, which is basically the problem statement.
   3. Most of them will also have a report(.pdf) and the latex source file for it.
   4. Those having reports will also have accompanying plots or figures(.png)
