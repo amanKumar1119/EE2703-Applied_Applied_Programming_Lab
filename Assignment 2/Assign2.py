@@ -1,6 +1,6 @@
 """
 Name       : Aman Kumar
-Assignment : 2
+Assignment : The Spice Program in Python
 Date       : 03-03-2021
 Inputs     : i) Name of the netlist file as the only command line argument.
             ii) The netlist file.
